@@ -1,0 +1,31 @@
+{
+  "channels": {
+    "12": {
+        "amp_type": "rno_surface",
+        "ant_comment": "LPDA",
+        "ant_orientation_phi": 0.0,
+        "ant_orientation_theta": 0.0,
+        "ant_position_x": 1.5,
+        "ant_position_y": -11,
+        "ant_position_z": -2,
+        "ant_rotation_phi": 90.0,
+        "ant_rotation_theta": 90.0,
+        "ant_type": "createLPDA_100MHz_InfFirn_n1.4",
+        "cab_time_delay": 0,
+        "commission_time": "{TinyDate}:2017-10-01T00:00:00",
+        "decommission_time": "{TinyDate}:2020-11-01T00:00:00",
+        "channel_id": 0,
+        "station_id": 0
+      }
+  },
+  "stations": {
+    "01": {
+      "pos_altitude": 0.0,
+      "pos_easting": 0.0,
+      "pos_northing": 0.0,
+      "pos_site": "summit",
+      "station_id": 0,
+      "station_type": null
+    }
+  }
+}
